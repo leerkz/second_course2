@@ -1,4 +1,4 @@
-# Homework 14.1
+# Homework 14.1.
 
 ##### В этом задании созданы классы Product и Category.
 
